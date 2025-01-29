@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import EjerciciosCss from './views/EjerciciosCss.vue'
+import EjerciciosCss from './component/EjerciciosCss.vue'
 </script>
 
 <template>
