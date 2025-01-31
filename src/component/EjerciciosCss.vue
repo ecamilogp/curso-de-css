@@ -1,100 +1,42 @@
 <template>
-  <!-- Ejemplo de selector de ID -->
-  <h1 id="titulo">Ingredientes</h1>
+  <h1>propiedades de texto</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat fugit voluptatibus,
+    repudiandae omnis vitae quaerat. Vitae ducimus hic architecto eligendi, quaerat quam ipsam quis
+    aliquam repellendus. Enim error repellat distinctio.
+  </p>
 
-  <!-- Ejemplo de selector de etiqueta -->
-  <p id="parrafo-general">Lista de ingredientes esenciales para la receta.</p>
-
-  <!-- Ejemplo de selector de clase -->
-  <div class="contenedor-lista">
-    <ul>
-      <li class="ingrediente-faltante">Harina</li>
-      <li class="ingrediente-presente">Aceite</li>
-      <li class="ingrediente-presente">Leche</li>
-      <li class="ingrediente-faltante">Sal</li>
-    </ul>
-  </div>
-
-  <!-- Ejemplo de selector de hijo directo -->
-  <div id="seccion-lista">
-    <ul>
-      <li>Azúcar</li>
-      <li>Mantequilla</li>
-    </ul>
-  </div>
-
-  <!-- Ejemplo de selector de descendiente -->
-  <section id="zona-receta">
-    <div>
-      <p>Tiempo de preparación: 30 minutos</p>
-    </div>
-  </section>
-
-  <!-- Ejemplo de selector de hermano adyacente -->
-  <h2 id="subtitulo">Instrucciones</h2>
-  <p id="primer-paso">Paso 1: Mezclar los ingredientes secos.</p>
-
-  <!-- Ejemplo de selector de hermanos generales -->
-  <h3 id="consejos">Consejos adicionales</h3>
-  <p id="consejo-uno">Utiliza ingredientes frescos para mejores resultados.</p>
-  <p id="consejo-dos">Prueba diferentes proporciones para ajustar el sabor.</p>
+  <p class="text">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda est quia repudiandae quae
+    voluptatum. Dolore rerum quos sint omnis illo unde dignissimos dolorem, error placeat minus
+    suscipit in dolor odio?
+  </p>
 </template>
 
 <style scoped>
-/* Ejemplo de selector de ID */
-#titulo {
-  text-transform: uppercase;
-  color: blue;
-}
-
-#parrafo-general {
-  font-size: 16px;
-  color: gray;
-}
-
-#seccion-lista > ul > li {
-  font-weight: bold;
-  color: darkblue;
-}
-
-#zona-receta p {
-  color: darkgreen;
-  font-style: italic;
-}
-
-#subtitulo + p {
-  font-size: 18px;
-  font-weight: bold;
-}
-
-#consejos ~ p {
-  color: brown;
-}
-
-/* Ejemplo de selector de clase */
-.ingrediente-faltante {
-  color: red;
-  font-weight: bold;
-}
-
-.ingrediente-presente {
-  color: green;
-  font-style: italic;
-}
-
-.contenedor-lista ul {
-  border: 1px solid black;
-  padding: 10px;
-  background-color: #f8f8f8;
-}
-
-/* Ejemplo de selector universal */
-* {
-  font-family: Arial, sans-serif;
-}
-
-/* Ejemplo de selector de etiqueta */
 p {
-  margin-bottom: 10px;
+  color: crimson;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: normal;
+
+  /* podemos usar todo en una sola linea con font
+   pero es importante conservar el orden para poder hacer el efecto cascada
+
+  font: italic small-caps bold 20px sans-serif; */
+}
+
+.text {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  line-height: 1.5;
+  white-space: normal;
+  text-shadow: 1px 2px 2px black;
 }
 </style>
