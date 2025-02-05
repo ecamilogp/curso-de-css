@@ -11,7 +11,8 @@
 
 // seccion de css intermedio
 // import SelectoresAvanzados from './component/css-intermedio/SelectoresAvanzados.vue'
-import Herencia from './component/css-intermedio/Herencia-.vue'
+// import Herencia from './component/css-intermedio/Herencia-.vue'
+import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecificidad.vue'
 </script>
 
 <template>
@@ -27,5 +28,6 @@ import Herencia from './component/css-intermedio/Herencia-.vue'
 
   <!-- css intermedio  -->
   <!-- <SelectoresAvanzados /> -->
-  <Herencia />
+  <!-- <Herencia /> -->
+  <CascadaYEspecificidad />
 </template>
