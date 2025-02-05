@@ -10,7 +10,8 @@
 // ----------------------------------------------------------------------------
 
 // seccion de css intermedio
-import SelectoresAvanzados from './component/css-intermedio/SelectoresAvanzados.vue'
+// import SelectoresAvanzados from './component/css-intermedio/SelectoresAvanzados.vue'
+import Herencia from './component/css-intermedio/Herencia-.vue'
 </script>
 
 <template>
@@ -25,5 +26,6 @@ import SelectoresAvanzados from './component/css-intermedio/SelectoresAvanzados.
   <!-- ------------------------------------- -->
 
   <!-- css intermedio  -->
-  <SelectoresAvanzados />
+  <!-- <SelectoresAvanzados /> -->
+  <Herencia />
 </template>
