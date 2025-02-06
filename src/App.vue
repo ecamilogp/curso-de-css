@@ -12,7 +12,9 @@
 // seccion de css intermedio
 // import SelectoresAvanzados from './component/css-intermedio/SelectoresAvanzados.vue'
 // import Herencia from './component/css-intermedio/Herencia-.vue'
-import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecificidad.vue'
+// import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecificidad.vue'
+import PseudoClases from './component/css-intermedio/PseudoClases.vue'
+// import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
 </script>
 
 <template>
@@ -29,5 +31,7 @@ import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecifici
   <!-- css intermedio  -->
   <!-- <SelectoresAvanzados /> -->
   <!-- <Herencia /> -->
-  <CascadaYEspecificidad />
+  <!-- <CascadaYEspecificidad /> -->
+  <PseudoClases />
+  <!-- <PseudoElementos /> -->
 </template>
