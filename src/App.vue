@@ -14,7 +14,8 @@
 // import Herencia from './component/css-intermedio/Herencia-.vue'
 // import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecificidad.vue'
 // import PseudoClases from './component/css-intermedio/PseudoClases.vue'
-import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
+// import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
+import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
 </script>
 
 <template>
@@ -33,5 +34,6 @@ import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
   <!-- <Herencia /> -->
   <!-- <CascadaYEspecificidad /> -->
   <!-- <PseudoClases /> -->
-  <PseudoElementos />
+  <!-- <PseudoElementos /> -->
+  <MetodologiaBem />
 </template>
