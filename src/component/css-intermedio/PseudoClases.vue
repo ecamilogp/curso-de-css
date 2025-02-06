@@ -42,7 +42,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .pseudoClaseInteraccion {
   display: inline-block;
   background-color: rgb(202, 209, 209);
