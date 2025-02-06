@@ -15,7 +15,8 @@
 // import CascadaYEspecificidad from './component/css-intermedio/CascadaYEspecificidad.vue'
 // import PseudoClases from './component/css-intermedio/PseudoClases.vue'
 // import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
-import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
+// import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
+import Display from './component/css-intermedio/Display-.vue'
 </script>
 
 <template>
@@ -35,5 +36,6 @@ import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
   <!-- <CascadaYEspecificidad /> -->
   <!-- <PseudoClases /> -->
   <!-- <PseudoElementos /> -->
-  <MetodologiaBem />
+  <!-- <MetodologiaBem /> -->
+  <Display />
 </template>
