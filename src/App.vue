@@ -16,17 +16,18 @@
 // import PseudoClases from './component/css-intermedio/PseudoClases.vue'
 // import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
 // import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
-import Display from './component/css-intermedio/Display-.vue'
+// import Display from './component/css-intermedio/Display-.vue'
+import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
 </script>
 
 <template>
   <!-- css basico -->
   <!-- <EjerciciosCss /> -->
   <!-- <Backgraund /> -->
-  <!-- <BorderPropiedades />
-  <BoxSizing />
-  <PropiedadesDeTexto />
-  <SelectoresPropiedades /> -->
+  <!-- <BorderPropiedades /> -->
+  <!-- <BoxSizing /> -->
+  <!-- <PropiedadesDeTexto /> -->
+  <!-- <SelectoresPropiedades /> -->
   <!-- <UnidadesDeMedida /> -->
   <!-- ------------------------------------- -->
 
@@ -37,5 +38,6 @@ import Display from './component/css-intermedio/Display-.vue'
   <!-- <PseudoClases /> -->
   <!-- <PseudoElementos /> -->
   <!-- <MetodologiaBem /> -->
-  <Display />
+  <!-- <Display /> -->
+  <PosicionRelativa />
 </template>
