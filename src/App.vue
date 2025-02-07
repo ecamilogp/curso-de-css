@@ -17,7 +17,8 @@
 // import PseudoElementos from './component/css-intermedio/PseudoElementos.vue'
 // import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
 // import Display from './component/css-intermedio/Display-.vue'
-import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
+// import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
+import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
 </script>
 
 <template>
@@ -39,5 +40,6 @@ import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
   <!-- <PseudoElementos /> -->
   <!-- <MetodologiaBem /> -->
   <!-- <Display /> -->
-  <PosicionRelativa />
+  <!-- <PosicionRelativa /> -->
+  <PositionAbsolute />
 </template>
