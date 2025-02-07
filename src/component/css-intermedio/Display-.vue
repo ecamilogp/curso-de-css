@@ -79,6 +79,17 @@
     <div>Uso de flex 3</div>
     <div>Uso de flex 4</div>
   </div>
+
+  <h2>uso de display grid</h2>
+  <div class="grid">
+    <img src="../../assets/yotas.jpg" alt="" /><img src="../../assets/yotas.jpg" alt="" /><img
+      src="../../assets/yotas.jpg"
+      alt=""
+    /><img src="../../assets/yotas.jpg" alt="" />
+  </div>
+
+  <h2>uso de display none</h2>
+  <p class="oculto">Este texto está oculto</p>
 </template>
 
 <style scoped>
@@ -131,5 +142,22 @@ div {
 
 .flex--evenly {
   justify-content: space-evenly;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.oculto {
+  display: none;
+  font-size: 30px;
+  font-weight: bold;
 }
 </style>
