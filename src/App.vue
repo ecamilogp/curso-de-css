@@ -18,7 +18,8 @@
 // import MetodologiaBem from './component/css-intermedio/MetodologiaBem.vue'
 // import Display from './component/css-intermedio/Display-.vue'
 // import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
-import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
+// import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
+import VentanaModal from './component/css-intermedio/VentanaModal.vue'
 </script>
 
 <template>
@@ -41,5 +42,6 @@ import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
   <!-- <MetodologiaBem /> -->
   <!-- <Display /> -->
   <!-- <PosicionRelativa /> -->
-  <PositionAbsolute />
+  <!-- <PositionAbsolute /> -->
+  <VentanaModal />
 </template>
