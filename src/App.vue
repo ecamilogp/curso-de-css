@@ -19,7 +19,8 @@
 // import Display from './component/css-intermedio/Display-.vue'
 // import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
 // import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
-import VentanaModal from './component/css-intermedio/VentanaModal.vue'
+// import VentanaModal from './component/css-intermedio/VentanaModal.vue'
+import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
 </script>
 
 <template>
@@ -43,5 +44,6 @@ import VentanaModal from './component/css-intermedio/VentanaModal.vue'
   <!-- <Display /> -->
   <!-- <PosicionRelativa /> -->
   <!-- <PositionAbsolute /> -->
+  <PositionFixedYSticky />
   <VentanaModal />
 </template>
