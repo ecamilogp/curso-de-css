@@ -20,7 +20,8 @@
 // import PosicionRelativa from './component/css-intermedio/ PosicionRelativa.vue'
 // import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
 // import VentanaModal from './component/css-intermedio/VentanaModal.vue'
-import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
+// import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
+import Transiciones from './component/css-intermedio/Transiciones-.vue'
 </script>
 
 <template>
@@ -44,6 +45,7 @@ import PositionFixedYSticky from './component/css-intermedio/PositionFixedYStick
   <!-- <Display /> -->
   <!-- <PosicionRelativa /> -->
   <!-- <PositionAbsolute /> -->
+  <Transiciones />
   <PositionFixedYSticky />
   <VentanaModal />
 </template>
