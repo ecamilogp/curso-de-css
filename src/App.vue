@@ -1,12 +1,12 @@
 <script setup lang="ts">
 // esta es la seccion de css basico
-// import EjerciciosCss from './component/css-basico/Ejercicios-1-Css.vue'
-// import Backgraund from './component/Backgraund-.vue'
-// import BorderPropiedades from './component/BorderPropiedades.vue'
-// import BoxSizing from './component/BoxSizing.vue'
-// import PropiedadesDeTexto from './component/PropiedadesDeTexto.vue'
-// import SelectoresPropiedades from '@/component/SelectoresPropiedades.vue'
-// import UnidadesDeMedida from './component/UnidadesDeMedida.vue'
+// import Ejercicios1Css from './component/css-basico/Ejercicios-1-Css.vue'
+// import Backgraund from './component/css-basico/Backgraund-.vue'
+// import BorderPropiedades from './component/css-basico/BorderPropiedades.vue'
+// import BoxSizing from './component/css-basico/BoxSizing.vue'
+// import PropiedadesDeTexto from './component/css-basico/PropiedadesDeTexto.vue'
+// import SelectoresPropiedades from './component/css-basico/SelectoresPropiedades.vue'
+// import UnidadesDeMedida from './component/css-basico/UnidadesDeMedida.vue'
 // ----------------------------------------------------------------------------
 
 // seccion de css intermedio
@@ -29,7 +29,7 @@ import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjec
 
 <template>
   <!-- css basico -->
-  <!-- <EjerciciosCss /> -->
+  <!-- <Ejercicios1Css /> -->
   <!-- <Backgraund /> -->
   <!-- <BorderPropiedades /> -->
   <!-- <BoxSizing /> -->
