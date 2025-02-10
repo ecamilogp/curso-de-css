@@ -23,7 +23,8 @@
 // import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
 // import Transiciones from './component/css-intermedio/Transiciones-.vue'
 // import Overflow from './component/css-intermedio/Overflow-.vue'
-import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTexto.vue'
+// import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTexto.vue'
+import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjectPosition.vue'
 </script>
 
 <template>
@@ -51,5 +52,6 @@ import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTe
   <!-- <VentanaModal /> -->
   <!-- <Transiciones /> -->
   <!-- <Overflow /> -->
-  <ControlDeFlujoDeTexto />
+  <!-- <ControlDeFlujoDeTexto /> -->
+  <ObjectFityObjectPosition />
 </template>
