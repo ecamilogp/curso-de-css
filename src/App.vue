@@ -22,7 +22,8 @@
 // import VentanaModal from './component/css-intermedio/VentanaModal.vue'
 // import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
 // import Transiciones from './component/css-intermedio/Transiciones-.vue'
-import Overflow from './component/css-intermedio/Overflow-.vue'
+// import Overflow from './component/css-intermedio/Overflow-.vue'
+import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTexto.vue'
 </script>
 
 <template>
@@ -49,5 +50,6 @@ import Overflow from './component/css-intermedio/Overflow-.vue'
   <!-- <PositionFixedYSticky /> -->
   <!-- <VentanaModal /> -->
   <!-- <Transiciones /> -->
-  <Overflow />
+  <!-- <Overflow /> -->
+  <ControlDeFlujoDeTexto />
 </template>
