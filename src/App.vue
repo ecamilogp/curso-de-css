@@ -21,7 +21,8 @@
 // import PositionAbsolute from './component/css-intermedio/PositionAbsolute.vue'
 // import VentanaModal from './component/css-intermedio/VentanaModal.vue'
 // import PositionFixedYSticky from './component/css-intermedio/PositionFixedYSticky.vue'
-import Transiciones from './component/css-intermedio/Transiciones-.vue'
+// import Transiciones from './component/css-intermedio/Transiciones-.vue'
+import Overflow from './component/css-intermedio/Overflow-.vue'
 </script>
 
 <template>
@@ -45,7 +46,8 @@ import Transiciones from './component/css-intermedio/Transiciones-.vue'
   <!-- <Display /> -->
   <!-- <PosicionRelativa /> -->
   <!-- <PositionAbsolute /> -->
-  <Transiciones />
-  <PositionFixedYSticky />
-  <VentanaModal />
+  <!-- <PositionFixedYSticky /> -->
+  <!-- <VentanaModal /> -->
+  <!-- <Transiciones /> -->
+  <Overflow />
 </template>
