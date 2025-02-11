@@ -24,7 +24,8 @@
 // import Transiciones from './component/css-intermedio/Transiciones-.vue'
 // import Overflow from './component/css-intermedio/Overflow-.vue'
 // import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTexto.vue'
-import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjectPosition.vue'
+// import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjectPosition.vue'
+import OutlineContorno from './component/css-intermedio/OutlineContorno.vue'
 </script>
 
 <template>
@@ -53,5 +54,6 @@ import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjec
   <!-- <Transiciones /> -->
   <!-- <Overflow /> -->
   <!-- <ControlDeFlujoDeTexto /> -->
-  <ObjectFityObjectPosition />
+  <!-- <ObjectFityObjectPosition /> -->
+  <OutlineContorno />
 </template>
