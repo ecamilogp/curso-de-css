@@ -29,7 +29,8 @@
 // ________________________________________________________________________________________________________
 
 //seccion de css flexbox
-import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
+// import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
+import FlexBasisGrowShrink from './component/css-flex-box/Flex-basis-grow-shrink.vue'
 </script>
 
 <template>
@@ -62,5 +63,6 @@ import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirectio
   <!-- <OutlineContorno /> -->
   <!-- // __________________________________________-->
   <!-- css flexbox  -->
-  <FlexDirectionFlexWrapFlexFlow />
+  <!-- <FlexDirectionFlexWrapFlexFlow /> -->
+  <FlexBasisGrowShrink />
 </template>
