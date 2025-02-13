@@ -25,7 +25,14 @@
 // import Overflow from './component/css-intermedio/Overflow-.vue'
 // import ControlDeFlujoDeTexto from './component/css-intermedio/ControlDeFlujoDeTexto.vue'
 // import ObjectFityObjectPosition from './component/css-intermedio/ObjectFityObjectPosition.vue'
-import OutlineContorno from './component/css-intermedio/OutlineContorno.vue'
+// import OutlineContorno from './component/css-intermedio/OutlineContorno.vue'
+// ________________________________________________________________________________________________________
+
+//seccion de css flexbox
+// import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
+// import FlexBasisGrowShrink from './component/css-flex-box/Flex-basis-grow-shrink.vue'
+// import AlingSelf from './component/css-flex-box/AlingSelf.vue'
+import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
 </script>
 
 <template>
@@ -55,5 +62,12 @@ import OutlineContorno from './component/css-intermedio/OutlineContorno.vue'
   <!-- <Overflow /> -->
   <!-- <ControlDeFlujoDeTexto /> -->
   <!-- <ObjectFityObjectPosition /> -->
-  <OutlineContorno />
+  <!-- <OutlineContorno /> -->
+  <!--  __________________________________________-->
+
+  <!-- css flexbox  -->
+  <!-- <FlexDirectionFlexWrapFlexFlow /> -->
+  <!-- <FlexBasisGrowShrink /> -->
+  <!-- <AlingSelf /> -->
+  <LayoutFlexBox />
 </template>
