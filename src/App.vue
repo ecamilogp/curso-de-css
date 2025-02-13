@@ -31,7 +31,8 @@
 //seccion de css flexbox
 // import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
 // import FlexBasisGrowShrink from './component/css-flex-box/Flex-basis-grow-shrink.vue'
-import AlingSelf from './component/css-flex-box/AlingSelf.vue'
+// import AlingSelf from './component/css-flex-box/AlingSelf.vue'
+import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
 </script>
 
 <template>
@@ -67,5 +68,6 @@ import AlingSelf from './component/css-flex-box/AlingSelf.vue'
   <!-- css flexbox  -->
   <!-- <FlexDirectionFlexWrapFlexFlow /> -->
   <!-- <FlexBasisGrowShrink /> -->
-  <AlingSelf />
+  <!-- <AlingSelf /> -->
+  <LayoutFlexBox />
 </template>
