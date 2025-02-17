@@ -36,7 +36,8 @@
 // ________________________________________________________________________________________________________
 
 // responsive design
-import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
+// import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
+import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
 </script>
 
 <template>
@@ -75,6 +76,8 @@ import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia
   <!-- <AlingSelf /> -->
   <!-- <LayoutFlexBox /> -->
   <!--  __________________________________________-->
+
   <!-- css responsive design -->
-  <BloquesYMultimedia />
+  <!-- <BloquesYMultimedia /> -->
+  <AtributoSrcsetYSizes />
 </template>
