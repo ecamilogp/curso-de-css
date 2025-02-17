@@ -39,7 +39,8 @@
 // import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
 // import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
 // import PIctureSourceYMedia from './component/responsive-design/PIctureSourceYMedia.vue'
-import MediaQueries from './component/responsive-design/MediaQueries.vue'
+// import MediaQueries from './component/responsive-design/MediaQueries.vue'
+import EjercicioHolyGrailConFlexBox from './component/responsive-design/EjercicioHolyGrailConFlexBox.vue'
 </script>
 
 <template>
@@ -83,5 +84,6 @@ import MediaQueries from './component/responsive-design/MediaQueries.vue'
   <!-- <BloquesYMultimedia /> -->
   <!-- <AtributoSrcsetYSizes /> -->
   <!-- <PIctureSourceYMedia /> -->
-  <MediaQueries />
+  <!-- <MediaQueries /> -->
+  <EjercicioHolyGrailConFlexBox />
 </template>
