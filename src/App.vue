@@ -32,7 +32,11 @@
 // import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
 // import FlexBasisGrowShrink from './component/css-flex-box/Flex-basis-grow-shrink.vue'
 // import AlingSelf from './component/css-flex-box/AlingSelf.vue'
-import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
+// import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
+// ________________________________________________________________________________________________________
+
+// responsive design
+import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
 </script>
 
 <template>
@@ -69,5 +73,8 @@ import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
   <!-- <FlexDirectionFlexWrapFlexFlow /> -->
   <!-- <FlexBasisGrowShrink /> -->
   <!-- <AlingSelf /> -->
-  <LayoutFlexBox />
+  <!-- <LayoutFlexBox /> -->
+  <!--  __________________________________________-->
+  <!-- css responsive design -->
+  <BloquesYMultimedia />
 </template>
