@@ -32,7 +32,18 @@
 // import FlexDirectionFlexWrapFlexFlow from './component/css-flex-box/FlexDirection-FlexWrap-FlexFlow.vue'
 // import FlexBasisGrowShrink from './component/css-flex-box/Flex-basis-grow-shrink.vue'
 // import AlingSelf from './component/css-flex-box/AlingSelf.vue'
-import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
+// import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
+// ________________________________________________________________________________________________________
+
+// responsive design
+// import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
+// import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
+// import PIctureSourceYMedia from './component/responsive-design/PIctureSourceYMedia.vue'
+// import MediaQueries from './component/responsive-design/MediaQueries.vue'
+// import EjercicioHolyGrailConFlexBox from './component/responsive-design/EjercicioHolyGrailConFlexBox.vue'
+// import MobileFirst from './component/responsive-design/MobileFirst.vue'
+// import ContainerQueries from './component/responsive-design/ContainerQueries.vue'
+import AdaptacionDePantalla from './component/responsive-design/AdaptacionDePantalla.vue'
 </script>
 
 <template>
@@ -69,5 +80,16 @@ import LayoutFlexBox from './component/css-flex-box/LayoutFlexBox.vue'
   <!-- <FlexDirectionFlexWrapFlexFlow /> -->
   <!-- <FlexBasisGrowShrink /> -->
   <!-- <AlingSelf /> -->
-  <LayoutFlexBox />
+  <!-- <LayoutFlexBox /> -->
+  <!--  __________________________________________-->
+
+  <!-- css responsive design -->
+  <!-- <BloquesYMultimedia /> -->
+  <!-- <AtributoSrcsetYSizes /> -->
+  <!-- <PIctureSourceYMedia /> -->
+  <!-- <MediaQueries /> -->
+  <!-- <EjercicioHolyGrailConFlexBox /> -->
+  <!-- <MobileFirst /> -->
+  <!-- <ContainerQueries /> -->
+  <AdaptacionDePantalla />
 </template>
