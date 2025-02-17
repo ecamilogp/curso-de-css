@@ -40,7 +40,8 @@
 // import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
 // import PIctureSourceYMedia from './component/responsive-design/PIctureSourceYMedia.vue'
 // import MediaQueries from './component/responsive-design/MediaQueries.vue'
-import EjercicioHolyGrailConFlexBox from './component/responsive-design/EjercicioHolyGrailConFlexBox.vue'
+// import EjercicioHolyGrailConFlexBox from './component/responsive-design/EjercicioHolyGrailConFlexBox.vue'
+import MobileFirst from './component/responsive-design/MobileFirst.vue'
 </script>
 
 <template>
@@ -85,5 +86,6 @@ import EjercicioHolyGrailConFlexBox from './component/responsive-design/Ejercici
   <!-- <AtributoSrcsetYSizes /> -->
   <!-- <PIctureSourceYMedia /> -->
   <!-- <MediaQueries /> -->
-  <EjercicioHolyGrailConFlexBox />
+  <!-- <EjercicioHolyGrailConFlexBox /> -->
+  <MobileFirst />
 </template>
