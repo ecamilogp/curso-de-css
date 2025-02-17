@@ -37,7 +37,8 @@
 
 // responsive design
 // import BloquesYMultimedia from './component/responsive-design/BloquesYMultimedia.vue'
-import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
+// import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYSizes.vue'
+import PIctureSourceYMedia from './component/responsive-design/PIctureSourceYMedia.vue'
 </script>
 
 <template>
@@ -79,5 +80,6 @@ import AtributoSrcsetYSizes from './component/responsive-design/AtributoSrcsetYS
 
   <!-- css responsive design -->
   <!-- <BloquesYMultimedia /> -->
-  <AtributoSrcsetYSizes />
+  <!-- <AtributoSrcsetYSizes /> -->
+  <PIctureSourceYMedia />
 </template>
