@@ -41,7 +41,8 @@
 // import PIctureSourceYMedia from './component/responsive-design/PIctureSourceYMedia.vue'
 // import MediaQueries from './component/responsive-design/MediaQueries.vue'
 // import EjercicioHolyGrailConFlexBox from './component/responsive-design/EjercicioHolyGrailConFlexBox.vue'
-import MobileFirst from './component/responsive-design/MobileFirst.vue'
+// import MobileFirst from './component/responsive-design/MobileFirst.vue'
+import ContainerQueries from './component/responsive-design/ContainerQueries.vue'
 </script>
 
 <template>
@@ -87,5 +88,6 @@ import MobileFirst from './component/responsive-design/MobileFirst.vue'
   <!-- <PIctureSourceYMedia /> -->
   <!-- <MediaQueries /> -->
   <!-- <EjercicioHolyGrailConFlexBox /> -->
-  <MobileFirst />
+  <!-- <MobileFirst /> -->
+  <ContainerQueries />
 </template>
